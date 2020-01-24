@@ -1,5 +1,5 @@
 {
-  "name": "expensivy",
+  "name": "expensify",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Boyd Bloemsma",
@@ -53,5 +53,6 @@
   },
   "devDependencies": {
     "webpack-cli": "^3.3.10"
-  }
+  },
+  "repository": "git@github.com:boydbloemsma/expensify-app.git"
 }
